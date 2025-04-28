@@ -1,0 +1,4 @@
+Flask
+requests
+pyTelegramBotAPI
+google-search-results
